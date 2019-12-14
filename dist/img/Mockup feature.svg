@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  preserveAspectRatio="none" viewBox="0 0 289 597">
+  <defs>
+    <path id="mockup-feature-a" d="M237.95708,0 C271.027594,0 288.679988,17.6682952 288.679988,50.7886785 L288.679988,545.764878 C288.679988,578.877712 271.029448,596.553557 237.95708,596.553557 L50.7509081,596.553557 C17.6785402,596.553557 0.0279999163,578.877712 0.0279999163,545.764878 L0.0279999163,50.7886785 C0.0279999163,17.6682952 17.6803937,0 50.7509081,0 L237.95708,0 Z"/>
+    <filter id="mockup-feature-b" width="102.4%" height="101.2%" x="-1.2%" y="-.6%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="3" result="shadowSpreadInner1"/>
+      <feGaussianBlur in="shadowSpreadInner1" result="shadowBlurInner1" stdDeviation="2"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" result="shadowMatrixInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"/>
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadInner2"/>
+      <feOffset in="shadowSpreadInner2" result="shadowOffsetInner2"/>
+      <feComposite in="shadowOffsetInner2" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner2"/>
+      <feColorMatrix in="shadowInnerInner2" result="shadowMatrixInner2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixInner1"/>
+        <feMergeNode in="shadowMatrixInner2"/>
+      </feMerge>
+    </filter>
+    <path id="mockup-feature-d" d="M166.999993,557.957016 C166.999993,570.671991 156.709707,580.979514 144.015994,580.979514 C131.322281,580.979514 121.031995,570.671991 121.031995,557.957016 C121.031995,545.24204 131.322281,534.934517 144.015994,534.934517 C156.709707,534.934517 166.999993,545.24204 166.999993,557.957016 Z M123.735995,557.957016 C123.735995,569.176111 132.815659,578.270985 144.015994,578.270985 C155.216329,578.270985 164.295993,569.176111 164.295993,557.957016 C164.295993,546.73792 155.216329,537.643046 144.015994,537.643046 C132.815659,537.643046 123.735995,546.73792 123.735995,557.957016 Z"/>
+    <filter id="mockup-feature-c" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.1 0"/>
+    </filter>
+    <filter id="mockup-feature-e" width="102.2%" height="102.2%" x="-1.1%" y="-1.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#F9FAFB" xlink:href="#mockup-feature-a"/>
+    <use fill="#000" filter="url(#mockup-feature-b)" xlink:href="#mockup-feature-a"/>
+    <g fill-rule="nonzero">
+      <use fill="#000" filter="url(#mockup-feature-c)" xlink:href="#mockup-feature-d"/>
+      <use fill="#E6E7E9" xlink:href="#mockup-feature-d"/>
+      <use fill="#000" filter="url(#mockup-feature-e)" xlink:href="#mockup-feature-d"/>
+    </g>
+  </g>
+</svg>
