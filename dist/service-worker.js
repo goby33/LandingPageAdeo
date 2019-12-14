@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4631aa6e94c603b8892a5b75aac3fc98.js"
+  "/precache-manifest.1edc32646de131fdd3662894bce57578.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "login_page"});

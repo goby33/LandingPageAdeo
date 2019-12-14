@@ -32,28 +32,28 @@ self.__precacheManifest = [
     "url": "/img/Mockup feature.svg"
   },
   {
-    "revision": "12ae96b437307241d8e42d448288f797",
-    "url": "/cgu-hommy-app.pdf"
+    "revision": "80280e18014605ffb8dd283d7c853888",
+    "url": "/img/android.svg"
   },
   {
     "revision": "28de1f3003ac64cbce736d049869f0be",
     "url": "/img/advice.svg"
   },
   {
-    "revision": "6111a7ec647abd45034423568a3fcf7a",
-    "url": "/img/apple.svg"
+    "revision": "5dfd57e16a58d0e23d6a905b78938b94",
+    "url": "/img/bg-header.svg"
   },
   {
     "revision": "db7f58d8e9a19261264baf7686a14295",
     "url": "/img/calendar.svg"
   },
   {
-    "revision": "5dfd57e16a58d0e23d6a905b78938b94",
-    "url": "/img/bg-header.svg"
+    "revision": "12ae96b437307241d8e42d448288f797",
+    "url": "/cgu-hommy-app.pdf"
   },
   {
-    "revision": "9fe438131269a2db7ada05851f104324",
-    "url": "/img/couleur-de-l-icon.svg"
+    "revision": "6111a7ec647abd45034423568a3fcf7a",
+    "url": "/img/apple.svg"
   },
   {
     "revision": "57e87329ffbfeed5cd62b3c52c3a88d5",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "url": "/img/energy.svg"
   },
   {
-    "revision": "80280e18014605ffb8dd283d7c853888",
-    "url": "/img/android.svg"
+    "revision": "9fe438131269a2db7ada05851f104324",
+    "url": "/img/couleur-de-l-icon.svg"
   },
   {
     "revision": "13269d56a8ca1198fdef5dad8d284aab",
@@ -80,8 +80,20 @@ self.__precacheManifest = [
     "url": "/img/kbane.svg"
   },
   {
+    "revision": "6d2a884d83d1955515280ab30dad946a",
+    "url": "/img/frizbiz.svg"
+  },
+  {
+    "revision": "914fd9fd24ae40ee8b3aba6c28ec5690",
+    "url": "/img/flat@2x.png"
+  },
+  {
     "revision": "b50dbd49a1570ce0aa1e5549589d9bae",
     "url": "/img/leroy-merlin.svg"
+  },
+  {
+    "revision": "a667376107021b88442b99c293d56038",
+    "url": "/img/lock.svg"
   },
   {
     "revision": "c38bea3aeaeb6600106ef5bd15229810",
@@ -92,36 +104,24 @@ self.__precacheManifest = [
     "url": "/img/mockup mobile.png"
   },
   {
-    "revision": "a667376107021b88442b99c293d56038",
-    "url": "/img/lock.svg"
-  },
-  {
     "revision": "d8a1bf09425d243b61da20dac3759aa7",
     "url": "/img/mockup-no-bg.svg"
-  },
-  {
-    "revision": "e993c2667a33dc9bdbe94c5611804d88",
-    "url": "/img/secure-picto.svg"
   },
   {
     "revision": "ed9851906abb208b614662d393ac1243",
     "url": "/img/pwa.svg"
   },
   {
-    "revision": "3122a4360e335491ce94b65d79fbbf65",
-    "url": "/img/share-picto.svg"
-  },
-  {
-    "revision": "a690bc879bb5d2190d950af67d66c0ee",
-    "url": "/img/share.svg"
+    "revision": "e993c2667a33dc9bdbe94c5611804d88",
+    "url": "/img/secure-picto.svg"
   },
   {
     "revision": "371b686beb4fda86e6c2521c001e3da6",
     "url": "/img/on-boarding-secured.svg"
   },
   {
-    "revision": "914fd9fd24ae40ee8b3aba6c28ec5690",
-    "url": "/img/flat@2x.png"
+    "revision": "3122a4360e335491ce94b65d79fbbf65",
+    "url": "/img/share-picto.svg"
   },
   {
     "revision": "7e4cb98da9b52cd9055a7bf5aa939889",
@@ -136,12 +136,16 @@ self.__precacheManifest = [
     "url": "/img/star-a.svg"
   },
   {
+    "revision": "a690bc879bb5d2190d950af67d66c0ee",
+    "url": "/img/share.svg"
+  },
+  {
     "revision": "0c6c0f7bf74a1595a42d750c3c05a197",
     "url": "/img/user-face-tsti-1.jpg"
   },
   {
-    "revision": "31a325a371c8ed268b5cbf4145e5f602",
-    "url": "/img/user-face-tsti-1@2x.jpg"
+    "revision": "f6006e67b2b2422e3c2f278a22ab2515",
+    "url": "/img/Sprite mobile@2x.png"
   },
   {
     "revision": "eccdef08a25039874bd3e8779f7bdc96",
@@ -152,20 +156,16 @@ self.__precacheManifest = [
     "url": "/img/user-face-tsti-1@3x.jpg"
   },
   {
+    "revision": "31a325a371c8ed268b5cbf4145e5f602",
+    "url": "/img/user-face-tsti-1@2x.jpg"
+  },
+  {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
   },
   {
-    "revision": "6d2a884d83d1955515280ab30dad946a",
-    "url": "/img/frizbiz.svg"
-  },
-  {
     "revision": "7ac8560b963588fb882d1c98d73db131",
     "url": "/img/flat@3x.png"
-  },
-  {
-    "revision": "f6006e67b2b2422e3c2f278a22ab2515",
-    "url": "/img/Sprite mobile@2x.png"
   },
   {
     "revision": "c7a27250eef214416a806a3fdc52ac4f",
