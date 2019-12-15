@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/LandingPageAdeoCode/precache-manifest.90a04e991f449f032c145f235c4a4d37.js"
+  "precache-manifest.ebed2465e2463c2bf0d246b068853491.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "login_page"});
