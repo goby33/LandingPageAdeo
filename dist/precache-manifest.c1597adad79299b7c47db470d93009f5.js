@@ -40,16 +40,16 @@ self.__precacheManifest = [
     "url": "/cgu-hommy-app.pdf"
   },
   {
-    "revision": "80280e18014605ffb8dd283d7c853888",
-    "url": "/img/android.svg"
+    "revision": "db7f58d8e9a19261264baf7686a14295",
+    "url": "/img/calendar.svg"
   },
   {
     "revision": "5dfd57e16a58d0e23d6a905b78938b94",
     "url": "/img/bg-header.svg"
   },
   {
-    "revision": "db7f58d8e9a19261264baf7686a14295",
-    "url": "/img/calendar.svg"
+    "revision": "6111a7ec647abd45034423568a3fcf7a",
+    "url": "/img/apple.svg"
   },
   {
     "revision": "57e87329ffbfeed5cd62b3c52c3a88d5",
@@ -64,12 +64,8 @@ self.__precacheManifest = [
     "url": "/img/energy.svg"
   },
   {
-    "revision": "6111a7ec647abd45034423568a3fcf7a",
-    "url": "/img/apple.svg"
-  },
-  {
-    "revision": "13269d56a8ca1198fdef5dad8d284aab",
-    "url": "/img/flat.png"
+    "revision": "80280e18014605ffb8dd283d7c853888",
+    "url": "/img/android.svg"
   },
   {
     "revision": "6d2a884d83d1955515280ab30dad946a",
@@ -80,12 +76,16 @@ self.__precacheManifest = [
     "url": "/img/header-hommy.svg"
   },
   {
-    "revision": "ae380f7f57eecc8bb0843688c9226cac",
-    "url": "/img/kbane.svg"
+    "revision": "13269d56a8ca1198fdef5dad8d284aab",
+    "url": "/img/flat.png"
   },
   {
     "revision": "b50dbd49a1570ce0aa1e5549589d9bae",
     "url": "/img/leroy-merlin.svg"
+  },
+  {
+    "revision": "ae380f7f57eecc8bb0843688c9226cac",
+    "url": "/img/kbane.svg"
   },
   {
     "revision": "a667376107021b88442b99c293d56038",
@@ -94,10 +94,6 @@ self.__precacheManifest = [
   {
     "revision": "c38bea3aeaeb6600106ef5bd15229810",
     "url": "/img/logo-hommy.svg"
-  },
-  {
-    "revision": "914fd9fd24ae40ee8b3aba6c28ec5690",
-    "url": "/img/flat@2x.png"
   },
   {
     "revision": "42a897847c3b75b97af2fb4f5ad41af3",
@@ -116,20 +112,32 @@ self.__precacheManifest = [
     "url": "/img/secure-picto.svg"
   },
   {
-    "revision": "371b686beb4fda86e6c2521c001e3da6",
-    "url": "/img/on-boarding-secured.svg"
+    "revision": "3122a4360e335491ce94b65d79fbbf65",
+    "url": "/img/share-picto.svg"
   },
   {
     "revision": "a690bc879bb5d2190d950af67d66c0ee",
     "url": "/img/share.svg"
   },
   {
-    "revision": "3122a4360e335491ce94b65d79fbbf65",
-    "url": "/img/share-picto.svg"
+    "revision": "371b686beb4fda86e6c2521c001e3da6",
+    "url": "/img/on-boarding-secured.svg"
+  },
+  {
+    "revision": "914fd9fd24ae40ee8b3aba6c28ec5690",
+    "url": "/img/flat@2x.png"
   },
   {
     "revision": "7e4cb98da9b52cd9055a7bf5aa939889",
     "url": "/img/Sprite mobile.png"
+  },
+  {
+    "revision": "0c6c0f7bf74a1595a42d750c3c05a197",
+    "url": "/img/user-face-tsti-1.jpg"
+  },
+  {
+    "revision": "167887281405aefa605b176c90868230",
+    "url": "/img/user-face-tsti-1@3x.jpg"
   },
   {
     "revision": "c9bc344962e3f6f03ef616bf1437369b",
@@ -140,20 +148,12 @@ self.__precacheManifest = [
     "url": "/img/star-a.svg"
   },
   {
-    "revision": "0c6c0f7bf74a1595a42d750c3c05a197",
-    "url": "/img/user-face-tsti-1.jpg"
-  },
-  {
     "revision": "31a325a371c8ed268b5cbf4145e5f602",
     "url": "/img/user-face-tsti-1@2x.jpg"
   },
   {
     "revision": "eccdef08a25039874bd3e8779f7bdc96",
     "url": "/img/worker.svg"
-  },
-  {
-    "revision": "167887281405aefa605b176c90868230",
-    "url": "/img/user-face-tsti-1@3x.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
